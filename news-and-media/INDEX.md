@@ -9,20 +9,28 @@ summary: "Living index of newsworthy stories about the WKU School of Teacher Edu
 
 # STE News and Media
 
-Curated news entries about the **School of Teacher Education (STE)** and closely related CEBS teacher-preparation stories. Primary scan sources: [WKU News](https://www.wku.edu/news/), [CEBS News](https://www.wku.edu/cebs/news/index.php), [@WKUCEBS](https://x.com/WKUCEBS), [@wku](https://x.com/wku), and [WKUNews on YouTube](https://www.youtube.com/@WKUNews/videos).
+Curated news entries about the **School of Teacher Education (STE)** and closely related CEBS teacher-preparation stories. Primary scan sources: [WKU News](https://www.wku.edu/news/), [CEBS News](https://www.wku.edu/cebs/news/index.php) (archive: [categoryid=342](https://www.wku.edu/news/articles/?categoryid=342&multinewsid=234&view=archive)), [@WKUCEBS](https://x.com/WKUCEBS), [@wku](https://x.com/wku), and [WKUNews on YouTube](https://www.youtube.com/@WKUNews/videos).
 
 ---
 
 ## 2026
 
+*   [[news-and-media/carly-wright-six-vs-eighty-six-2026|Six vs. Eighty-Six: Carly Wright dual-major feature]]
+*   [[news-and-media/kay-gandy-fulbright-2026|Dr. S. Kay Gandy Fulbright U.S. Scholar Award]]
 *   [[news-and-media/forsythe-scholars-endowment-2026|Forsythe Scholars Endowment ($1M) — first awards]]
 *   [[news-and-media/teachers-of-promise-2026|2026 Teachers of Promise honorees]]
+*   [[news-and-media/insight-stem-summer-2026|INSIGHT Summer STEM Innovation Program]]
 *   [[news-and-media/distinguished-educator-awards-2026|6th Annual Distinguished Educator Awards]]
+*   [[news-and-media/christina-noel-cec-executive-director-2026|Dr. Christina Noel named CEC Executive Director]]
+*   [[news-and-media/kentucky-teacher-hall-of-fame-nominations-2026|Hall of Fame Class of 2026 nominations open]]
 *   [[news-and-media/janet-tassell-university-distinguished-professor-2026|Dr. Janet Tassell named University Distinguished Professor]]
 
 ## 2025
 
+*   [[news-and-media/caep-accreditation-2025|Full CAEP accreditation through Dec 2032]]
+*   [[news-and-media/project-thrive-grant-2025|Project THRIVE $1.25M special education grant]]
 *   [[news-and-media/kentucky-teacher-hall-of-fame-2025|Kentucky Teacher Hall of Fame — 2025 inductees]]
+*   [[news-and-media/ai-edtech-certificate-launch-2025|AI & Educational Technology Leader certificate launch]]
 
 ---
 
@@ -30,4 +38,7 @@ Curated news entries about the **School of Teacher Education (STE)** and closely
 *   [[INDEX|STE Master Map of Content]]
 *   [[funding-and-aid/scholarships-and-grants|Scholarships and Grants Directory]]
 *   [[people/dr-janet-tassell|Dr. Janet L. Tassell]]
+*   [[people/dr-christina-noel|Dr. Christina R. Noel]]
+*   [[centers-and-partnerships/suzanne-vitale-clinical-education-complex|Suzanne Vitale CEC]]
+*   [[overview/accreditation-and-standards|Accreditation and Standards]]
 *   [[overview/about-ste|About the School of Teacher Education]]
