@@ -3,7 +3,7 @@ title: "School of Teacher Education (STE) Knowledge Base - Master Map of Content
 type: "index"
 tags: [wku, ste, map-of-content, index, master-index, knowledge-base, root]
 source_url: "https://www.wku.edu/ste/"
-last_updated: "2026-09-02"
+last_updated: "2026-09-04"
 summary: "Central Map of Content (MOC) and authoritative navigation index for the WKU School of Teacher Education Knowledge Base."
 ---
 
@@ -165,6 +165,12 @@ Explore the ten core knowledge domains of the School of Teacher Education:
 *   [[opes/teacher-certification-services|Teacher Certification Services & EPSB Recommendations]]: Official liaison to Kentucky EPSB / OELE, CA-1 application processing, Statement of Eligibility (SOE), and Rank change processing.
 *   [[opes/proficiency-evaluations-alternative-route|Alternative Certification: Proficiency Evaluation Route (16 KAR 5:030)]]: Detailed 7-step process for initial certification, $500 fee, digital portfolio standards (KTPS), Educator Learning Plan (ELP), and 1-year renewable Temporary Provisional Certificate.
 *   [[opes/praxis-exams-and-support|Praxis Test Requirements, State Codes, & Preparation Support]]: Institutional codes (WKU: 1901, EPSB: 7283), passing cut scores, at-home testing policies, and fee waiver support.
+
+---
+
+### 10. News & Media (Living)
+*   [[news-and-media/INDEX|STE News and Media Map of Content]]
+*   Recent: [[news-and-media/forsythe-scholars-endowment-2026|Forsythe Scholars Endowment]], [[news-and-media/teachers-of-promise-2026|2026 Teachers of Promise]], [[news-and-media/distinguished-educator-awards-2026|Distinguished Educator Awards 2026]], [[news-and-media/janet-tassell-university-distinguished-professor-2026|Tassell University Distinguished Professor]], [[news-and-media/kentucky-teacher-hall-of-fame-2025|KY Teacher Hall of Fame 2025]]
 
 ---
 
