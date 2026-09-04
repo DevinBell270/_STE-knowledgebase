@@ -169,8 +169,8 @@ Explore the ten core knowledge domains of the School of Teacher Education:
 ---
 
 ### 10. News & Media (Living)
-*   [[news-and-media/INDEX|STE News and Media Map of Content]]
-*   Recent: [[news-and-media/forsythe-scholars-endowment-2026|Forsythe Scholars Endowment]], [[news-and-media/teachers-of-promise-2026|2026 Teachers of Promise]], [[news-and-media/distinguished-educator-awards-2026|Distinguished Educator Awards 2026]], [[news-and-media/janet-tassell-university-distinguished-professor-2026|Tassell University Distinguished Professor]], [[news-and-media/kentucky-teacher-hall-of-fame-2025|KY Teacher Hall of Fame 2025]]
+*   [[news-and-media/INDEX|STE News and Media Map of Content]] — 13 curated STE stories from WKU/CEBS News (2025–2026)
+*   Highlights: Forsythe Scholars, Project THRIVE, CAEP accreditation, Tassell Distinguished Professor, CEC Noel appointment, Teachers of Promise, Distinguished Educator Awards
 
 ---
 
