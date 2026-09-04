@@ -3,7 +3,7 @@ title: "Dr. Janet L. Tassell"
 type: "person"
 tags: ['assistant-director', 'coordinator', 'elementary-math', 'stem', 'professor']
 source_url: "https://www.wku.edu/ste/staff/janet_tassell"
-last_updated: "2026-09-02"
+last_updated: "2026-09-04"
 summary: "Assistant Director, School of Teacher Education; Program Coordinator; Professor in the WKU School of Teacher Education. Specialization: Elementary mathematics pedagogy, math coaching, gifted mathematics education, numeracy intervention, and clinical educator preparation.."
 ---
 
@@ -35,7 +35,7 @@ summary: "Assistant Director, School of Teacher Education; Program Coordinator; 
 
 ## Professional Role & Biography
 
-Dr. Janet L. Tassell is Assistant Director of the School of Teacher Education and Program Coordinator for Elementary Education and Mathematics Education. She spearheaded the design of the Elementary Mathematics Specialist (EMS) endorsement and certificate program and has directed major state and federal grants in teacher numeracy leadership.
+Dr. Janet L. Tassell is Assistant Director of the School of Teacher Education and Program Coordinator for Elementary Education and Mathematics Education. She spearheaded the design of the Elementary Mathematics Specialist (EMS) endorsement and certificate program and has directed major state and federal grants in teacher numeracy leadership. Appointed **University Distinguished Professor** effective July 1, 2026 (Board of Regents, February 2026). See [[news-and-media/janet-tassell-university-distinguished-professor-2026]].
 
 ---
 
@@ -57,3 +57,4 @@ Dr. Janet L. Tassell is Assistant Director of the School of Teacher Education an
 *   [[people/INDEX]]: School of Teacher Education Faculty & Staff Directory
 *   [[overview/leadership-and-governance]]: STE Leadership and Organizational Governance
 *   [[overview/contact-and-facilities]]: Gary A. Ransdell Hall Facilities and Directory
+*   [[news-and-media/janet-tassell-university-distinguished-professor-2026]]: University Distinguished Professor announcement
