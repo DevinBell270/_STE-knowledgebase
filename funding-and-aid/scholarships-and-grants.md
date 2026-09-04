@@ -3,7 +3,7 @@ title: "Teacher Education Scholarships and Grants Directory"
 type: "funding"
 tags: [scholarships, grants, cebs, foundation-awards, teach-grant, kheaa, financial-aid]
 source_url: "https://www.wku.edu/ste/teacher-funding.php"
-last_updated: "2026-09-02"
+last_updated: "2026-09-04"
 summary: "Detailed directory of state, federal, college-level, and departmental scholarships available to WKU teacher education students."
 ---
 
@@ -37,6 +37,7 @@ Applications for CEBS Foundation scholarships are submitted annually between Nov
 *   **The Dr. Julia Roberts Gifted Education Scholarship:** For graduate educators pursuing gifted education endorsements.
 *   **The SKyTeach STEM Teaching Award:** Merit-based stipends for math and science majors completing clinical semesters.
 *   **The Mary Jo & Jerry E. Baker Teacher Education Scholarship:** Awarded to clinical student teachers from South-Central Kentucky.
+*   **Forsythe Scholars Endowment:** $1M endowment (gifted late 2024) supporting STE undergraduate/graduate tuition, emergency aid, conferences, and student-teaching supplies; first cohort of 19 awards in 2025–26. See [[news-and-media/forsythe-scholars-endowment-2026]].
 
 ---
 
@@ -44,3 +45,4 @@ Applications for CEBS Foundation scholarships are submitted annually between Nov
 *   [[funding-and-aid/teacher-funding-guide]]: Stackable Aid Strategy
 *   [[funding-and-aid/educator-tuition-discount]]: $350 Graduate Tuition Discount
 *   [[pathways-and-certification/become-a-teacher]]: Prospective Student Guidance
+*   [[news-and-media/forsythe-scholars-endowment-2026]]: Forsythe Scholars Endowment news entry
