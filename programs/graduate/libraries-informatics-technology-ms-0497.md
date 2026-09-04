@@ -3,8 +3,8 @@ title: "Libraries, Informatics, and Technology in Education, MS (Ref: 0497)"
 type: "program"
 tags: [graduate, ms, lite, library-media, school-librarian, ed-tech, rank-change]
 source_url: "https://catalog.wku.edu/graduate/education-behavioral-sciences/teacher-education/library-media-ms/"
-last_updated: "2026-09-02"
-summary: "30-credit hour online Master of Science degree leading to Kentucky School Media Librarian (P-12) certification and Rank II or Rank I advancement."
+last_updated: "2026-09-04"
+summary: "30-credit hour Master of Science in LITE. Students seeking additional teacher certification earn School Librarian certification and the Instructional Computer Technology Endorsement; Rank II or Rank I eligible."
 ---
 
 # Libraries, Informatics, and Technology in Education, MS (Ref: 0497)
@@ -13,7 +13,11 @@ summary: "30-credit hour online Master of Science degree leading to Kentucky Sch
 *College of Education and Behavioral Sciences*  
 *Western Kentucky University*
 
-The **Master of Science in Libraries, Informatics, and Technology in Education (LITE) (Reference # 0497)** is a 30-credit-hour, 100% online graduate program that prepares candidates to serve as certified **School Media Librarians (Grades P–12)**, digital media leaders, and educational technology integration specialists.
+The **Master of Science in Libraries, Informatics, and Technology in Education (LITE) (Reference # 0497)** emphasizes libraries, informatics, and technology in education. Students seeking additional teacher certification will earn **School Librarian certification** and the **Instructional Computer Technology Endorsement**.
+
+The Master of Science degree is a **30-hour** program: a **27-hour core** and **one restricted elective**. This degree may be used for the Kentucky **Rank II or Rank I** salary levels.
+
+Students who seek advanced teacher certification must hold teaching certification. Students may complete this program without seeking teacher certification if they intend to seek employment in a setting other than public education (where teacher certification is required). **This program does not provide initial teacher certification.**
 
 This program qualifies for the **$350/credit hour [[funding-and-aid/educator-tuition-discount|WKU Graduate Educator Tuition Discount]]**.
 
@@ -25,8 +29,8 @@ This program qualifies for the **$350/credit hour [[funding-and-aid/educator-tui
 | :--- | :--- |
 | **Degree Awarded** | Master of Science (M.S.) |
 | **WKU Catalog Reference Number** | **0497** |
-| **Total Credit Hours Required** | **30 Hours** |
-| **Kentucky Credential Earned** | School Media Librarian Certification (Grades P–12) |
+| **Total Credit Hours Required** | **30 Hours** (27-hour core + 3-hour restricted elective) |
+| **Kentucky Credential Earned** | School Media Librarian Certification (Grades P–12) and Instructional Computer Technology Endorsement (for students seeking additional teacher certification) |
 | **Rank Advancement** | Leads to **Rank II** or **Rank I** (EPSB Approved) |
 | **Tuition Discount Eligibility** | **Eligible for $350/credit hour Graduate Educator Tuition Discount** |
 | **Delivery Mode** | 100% Online |
@@ -35,16 +39,29 @@ This program qualifies for the **$350/credit hour [[funding-and-aid/educator-tui
 ---
 
 ## Curriculum Outline (30 Hours)
-*   **LITE 501:** Digital Instructional Design and Information Technology (3 hrs)
-*   **LITE 506:** Children's and Young Adult Literature in Digital Environments (3 hrs)
-*   **LITE 508:** Organization of Information, Cataloging, and Metadata (3 hrs)
-*   **LITE 512:** Reference Services and Information Literacy Instruction (3 hrs)
-*   **LITE 535:** School Library Media Center Administration and Leadership (3 hrs)
-*   **LITE 537:** Educational Technology Tools for Teaching and Learning (3 hrs)
-*   **LITE 545:** Digital Storytelling and Creative Media Production (3 hrs)
-*   **LITE 547:** Web Design and Educational Multimedia Development (3 hrs)
-*   **LITE 590:** Clinical Practicum in School Library Media Centers (3 hrs)
-*   **Capstone Research Project / Portfolio:** (3 hrs)
+*   **LITE 501:** Program Organization (3 hrs)
+*   **LITE 512:** Issues in Libraries, Informatics, and Technology in Education (3 hrs)
+*   **LITE 535:** Survey of Educational Technology Practices (3 hrs)
+*   **LITE 537:** Educational Technology Management (3 hrs)
+*   **LITE 506:** Organization of Information (3 hrs)
+*   **LITE 508:** Informatics in Education (3 hrs) — research methods course for this program
+*   **LITE 518:** Advanced Children's Literature and Collections (3 hrs)
+*   **LITE 527:** Advanced Young Adult Literature and Collections (3 hrs)
+*   **LITE 590:** Practicum in Libraries, Informatics, and Technology in Education (3 hrs) — professional portfolio is the capstone; completed as part of the practicum (professional practice experience)
+*   Select one of the following (3 hrs): **LITE 545** Educational Technology Production; **LITE 547** Integration of Educational Technology; **LITE 550** Emerging Technology in Education; **LITE 737** Educational Technology Leadership
+
+### Certification Examination
+A certification examination is **not** a requirement to earn the M.S. in LITE. Kentucky does require a passing score on the PRAXIS II Subject Assessments—Library Media Specialist for certification as a school media librarian. Students outside of Kentucky are responsible for determining the requirements for certification in their states.
+
+---
+
+## Admission Requirements
+*   Submission of graduate application to Graduate Studies
+*   Official transcripts of all college work
+*   Copy of teaching certificate if seeking advanced certification in School Librarian and Instructional Computer Technology Endorsement
+*   GPA of **2.75** in previous program or **3.0** in last 30 hours of previous program
+
+The admission decision by program faculty is based on a review of the full set of admission documents. Please refer to the admission section of the WKU graduate catalog for Graduate Studies admission requirements.
 
 ---
 

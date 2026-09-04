@@ -1,48 +1,50 @@
 ---
-title: "Teacher Leader Framework & Core Graduate Curriculum"
+title: "Teacher Leader (TCHL) Course Sequence"
 type: "curriculum"
-tags: [tchl, teacher-leader, action-research, graduate-core, curriculum, assessment]
-source_url: "https://catalog.wku.edu/graduate/education-behavioral-sciences/teacher-education/"
-last_updated: "2026-09-02"
-summary: "Detailed overview of the Teacher Leader (TCHL) core curriculum, classroom action research capstone, and school improvement models in WKU graduate degrees."
+tags: [tchl, teacher-leader, action-research, graduate-core, curriculum, assessment, ktle]
+source_url: "https://catalog.wku.edu/graduate/education-behavioral-sciences/teacher-education/certification-only/"
+last_updated: "2026-09-04"
+summary: "Catalog TCHL sequence used in the Kentucky Teacher Leader Endorsement (KTLE) and the Secondary Education Rank II planned fifth-year program. Not the core of MAE 0500."
 ---
 
-# Teacher Leader Framework & Core Graduate Curriculum
+# Teacher Leader (TCHL) Course Sequence
 
 *School of Teacher Education*  
 *College of Education and Behavioral Sciences*  
 *Western Kentucky University*
 
-The **Teacher Leader Framework** at WKU is designed around the belief that the classroom teacher is the most critical agent of instructional innovation and school transformation. Rather than training teachers to leave the classroom for administrative offices, the Teacher Leader curriculum empowers educators to lead from the classroom, driving instructional coaching, peer mentoring, professional learning communities (PLCs), and data-driven school reform.
+The **TCHL** prefix is the catalog Teacher Leader sequence. In the live graduate catalog it is **not** the required core of [[programs/graduate/advanced-teacher-education-mae-0500|MAE Advanced Teacher Education (0500)]]. MAE 0500 professional education is **EDU 502, EDU 503 or EDU 694, EDU 580, EDU 560**.
+
+TCHL courses appear in:
+*   [[programs/graduate/certification-only-teacher-education-132|Certification Only, Teacher Education (132)]] — **Teacher Leader Endorsement (KTLE), 9–15 hours**
+*   [[programs/graduate/secondary-education-rank-ii-0432|Secondary Education, Rank II (0432)]] — Planned Fifth-Year Teacher Leader program (33–39 hours)
+*   Selected other concentrations (for example Gifted MAE Advanced Instruction options may list TCHL 500)
 
 ---
 
-## The Teacher Leader Core (TCHL) Sequence
+## Catalog TCHL sequence (KTLE / Rank II)
 
-Graduate candidates in the [[programs/graduate/advanced-teacher-education-mae-0500|MAE in Advanced Teacher Education (Ref # 0500)]] and specialized MAE programs complete coursework across key leadership domains:
+From Certification Only (KTLE) and Rank II 0432:
 
-### 1. TCHL 500: Foundations of Teacher Leadership (3 Hours)
-*   **Focus:** Exploring the Teacher Leader Model Standards, professional ethics, school culture, adult learning theory, and effective peer collaboration.
-*   **Key Deliverable:** Comprehensive teacher leadership self-assessment and school climate improvement proposal.
+1.  **TCHL 500:** Foundations of Teacher Leadership (3 hrs) — enroll at the beginning of the endorsement or Rank II program. Rank II uses an assessment in this course to determine which remaining TCHL core courses are required.
+2.  **TCHL 530:** Curriculum Development (3 hrs)
+3.  **TCHL 545:** Classroom Instruction Strategies (0–3 hrs) — complete the course **or** pass proficiency evaluations
+4.  **TCHL 555:** School and Classroom Assessment (0–3 hrs) — complete the course **or** pass proficiency evaluations
+5.  **TCHL 560:** Capstone Project for Teacher Leadership (3 hrs) — enroll toward the end. Catalog requires a course grade of **C** or higher and presentation of research results in an approved venue. Rank II describes an Action Research Project for Teacher Leaders. Certification Only also allows **EDU 560** in place of TCHL 560 for the end-of-program course.
 
-### 2. TCHL 530: Curriculum Development and Evaluation (3 Hours)
-*   **Focus:** Examining national and state curriculum standards, backward design (UbD), curriculum mapping, and evaluating instructional materials for cultural and cognitive responsiveness.
-
-### 3. TCHL 555: School and Classroom Assessment Strategies (3 Hours)
-*   **Focus:** Formative and summative assessment systems, standard-based grading, performance assessments, item analysis, and using school-wide assessment data to guide multi-tiered interventions.
-
-### 4. TCHL 560 / EDU 595: Action Research Capstone for Teacher Leaders (3 Hours)
-*   **Focus:** Conducting an applied, empirical action research study directly within the candidate's own P-12 classroom or school setting.
-*   **Methodology:** Identifying an instructional problem of practice, implementing an evidence-based intervention, collecting quantitative/qualitative student learning data, analyzing outcome metrics, and publishing a formal action research capstone paper.
+Students must achieve a minimum **3.0 GPA** overall and in endorsement coursework (KTLE).
 
 ---
 
-## Career Value & Endorsement
-Graduates completing the Teacher Leader core satisfy state competencies for the **Kentucky Teacher Leader Endorsement (KTLE)**, qualifying them for elevated roles as department heads, instructional coaches, curriculum specialists, and district mentor teachers.
+## Career value
+
+Completing the KTLE concentration on Certification Only (132) satisfies catalog requirements for the **Kentucky Teacher Leader Endorsement**. Rank II 0432 is a non-degree planned fifth-year path to **Rank II** for secondary-certified teachers, not a substitute for MAE 0500.
 
 ---
 
 ## Backlinks / Related Documents
-*   [[programs/graduate/advanced-teacher-education-mae-0500]]: Flagship 30-Hour Stackable MAE
+*   [[programs/graduate/certification-only-teacher-education-132]]: KTLE concentration
+*   [[programs/graduate/secondary-education-rank-ii-0432]]: Rank II Teacher Leader planned program
+*   [[programs/graduate/advanced-teacher-education-mae-0500]]: MAE 0500 (EDU core, not TCHL core)
 *   [[courses-and-curriculum/course-prefixes-and-descriptions]]: Master Prefix Table
 *   [[pathways-and-certification/rank-change-system]]: Kentucky Rank Change System

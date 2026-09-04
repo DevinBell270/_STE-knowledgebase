@@ -1,10 +1,10 @@
 ---
 title: "Special Education, Rank I (Ref: 113)"
 type: "program"
-tags: [graduate, non-degree, rank-program, rank-i, planned-program]
+tags: [graduate, non-degree, rank-program, rank-i, planned-program, special-education]
 source_url: "https://catalog.wku.edu/graduate/education-behavioral-sciences/teacher-education/"
-last_updated: "2026-09-02"
-summary: "Non-degree planned graduate program leading to Kentucky Rank I certification advancement in Special Education."
+last_updated: "2026-09-04"
+summary: "Reference 113 is not published as a standalone program in the 2025-26 WKU Graduate Catalog; closest live catalog paths are listed below."
 ---
 
 # Special Education, Rank I (Ref: 113)
@@ -13,7 +13,22 @@ summary: "Non-degree planned graduate program leading to Kentucky Rank I certifi
 *College of Education and Behavioral Sciences*  
 *Western Kentucky University*
 
-The **Special Education, Rank I (Ref: 113)** is a state-approved (EPSB) non-degree planned program designed for practicing Kentucky educators who wish to achieve salary advancement to **Rank I** through graduate coursework without completing a formal second master's degree or specialist thesis.
+**Special Education, Rank I (Ref: 113)** is **not listed** as a current program on the 2025–26 WKU Graduate Catalog program index or on the [School of Teacher Education](https://catalog.wku.edu/graduate/education-behavioral-sciences/teacher-education/) graduate program list.
+
+Catalog searches for `catalog.wku.edu` do not return a program page titled Special Education Rank I (113). Do not treat a fabricated 30-hour “planned 6th year SPED” sequence as catalog requirements.
+
+---
+
+## Closest live catalog programs
+
+| Catalog program | Ref | URL |
+| :--- | :--- | :--- |
+| School Administration, Rank 1 — Director of Special Education (KDS1 and KDS2) | **121** | https://catalog.wku.edu/graduate/education-behavioral-sciences/slps/school-admin-rank1/ |
+| Certification Only, Teacher Education — LBD (KLBD) and MSD (KMS) concentrations | **132** | https://catalog.wku.edu/graduate/education-behavioral-sciences/teacher-education/certification-only/ |
+| Special Education for Learning and Behavior Disorders, M.A.E. | **0457** | https://catalog.wku.edu/graduate/education-behavioral-sciences/teacher-education/ |
+| Special Education for Moderate and Severe Disabilities, M.A.E. | **0438** | https://catalog.wku.edu/graduate/education-behavioral-sciences/teacher-education/ |
+
+The college catalog text states that the School of Teacher Education offers Planned Sixth-Year/Rank I programs in Elementary Education, Middle Grades Education, Secondary Education, and Interdisciplinary Early Childhood Education. A Planned Sixth-Year/Rank I program in School Administration to prepare special education **directors** is described separately. Course restrictions still mention **Dir of Spec Education-Rank I (0426)**, but that reference does not have a published 2025–26 program page in the catalog search results.
 
 ---
 
@@ -21,29 +36,25 @@ The **Special Education, Rank I (Ref: 113)** is a state-approved (EPSB) non-degr
 
 | Feature | Specification |
 | :--- | :--- |
-| **Credential Type** | Non-Degree State Planned Program |
-| **WKU Catalog Reference Number** | **113** |
-| **Total Credit Hours** | **30–32 Graduate Hours** |
-| **Target Rank** | **Rank I** (Kentucky Education Professional Standards Board) |
-| **Tuition Discount Eligibility** | **Eligible for $350/credit hour Graduate Educator Tuition Discount** |
+| **Credential Type** | Not published in 2025–26 catalog as Ref **113** |
+| **WKU Catalog Reference Number** | **113** (historical / not listed) |
+| **Total Credit Hours** | **Not listed** in 2025–26 catalog |
+| **Target Rank** | See closest programs above (Rank I via **121** DOSE; add-on cert via **132**) |
+| **Tuition Discount Eligibility** | Educator discount applies to eligible graduate education coursework; confirm with current discount rules |
 | **Advising Unit** | School of Teacher Education (GRH 1005) |
 
 ---
 
-## Curriculum Overview
-Planned 6th Year 30-hour program for special educators advancing to Rank I.
+## Curriculum
 
-Coursework is planned individually with a graduate faculty advisor in the School of Teacher Education. Courses may be drawn from teacher leadership (TCHL), content area graduate courses, special education, literacy, educational technology, or gifted education.
-
----
-
-## Comparison: Planned Rank Program vs. Stackable Master's Degree
-As documented on the [[pathways-and-certification/rank-change-system|WKU Rank Change Comparison]], teachers are strongly encouraged to compare this non-degree option with WKU's stackable **MAE in Advanced Teacher Education (Ref # 0500)** or **Ed.S. (Ref # 0503)**. The stackable master's degree requires the exact same 30 credit hours, carries the exact same tuition cost ($350/hr), achieves the exact same Rank change, and awards a permanent conferred degree with nationwide portability.
+No course sequence is published for Ref **113**. Use the live catalog pages for **121**, **132**, **0457**, or **0438** rather than inventing courses.
 
 ---
 
 ## Backlinks / Related Documents
 *   [[programs/INDEX]]: Master Program Matrix
+*   [[programs/graduate/certification-only-teacher-education-132]]: Certification Only (includes LBD and MSD)
 *   [[pathways-and-certification/rank-change-system]]: Kentucky Rank Change System Overview
-*   [[programs/graduate/advanced-teacher-education-mae-0500]]: Recommended Stackable Degree
+*   [[programs/graduate/special-education-lbd-mae-0457]]: MAE LBD
+*   [[programs/graduate/special-education-msd-mae-0438]]: MAE MSD
 *   [[funding-and-aid/educator-tuition-discount]]: $350 Tuition Discount

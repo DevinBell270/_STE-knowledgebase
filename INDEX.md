@@ -70,18 +70,18 @@ Explore the ten core knowledge domains of the School of Teacher Education:
 *   [[programs/INDEX|Master Academic Programs Matrix]]
 
 #### A. Undergraduate Degrees & Initial Certification
-*   [[programs/undergraduate/elementary-education-bs-527|Elementary Education, B.S. (Ref: 527)]]: 128 hrs, Grades P–5.
-*   [[programs/undergraduate/interdisciplinary-early-childhood-education-bs-526|Interdisciplinary Early Childhood Education, B.S. (Ref: 526)]]: 120 hrs, Birth to Primary.
-*   [[programs/undergraduate/middle-level-education-bs-5001|Middle Level Education, B.S. (Ref: 5001)]]: 120–128 hrs, Dual certification in ELA & Social Studies (Grades 5–9).
-*   [[programs/undergraduate/science-and-mathematics-education-bs-774|Science & Math Education (SKyTeach), B.S. (Ref: 774)]]: STEM secondary preparation (Grades 8–12).
-*   [[programs/undergraduate/special-education-and-elementary-education-bs-5003|Special Education: LBD & Elementary Education Dual Major, B.S. (Ref: 5003)]]: 128 hrs, Dual certification (P–5 & P–12).
-*   [[programs/undergraduate/secondary-education-certification|Secondary Education Teacher Certification]]: High school teaching routes (Grades 8–12).
-*   [[programs/undergraduate/interactive-training-and-leadership-certificate-1752|Interactive Training and Leadership Certificate (Ref: 1752)]]: 12-hr undergraduate certificate.
+*   [[programs/undergraduate/elementary-education-bs-527|Elementary Education, B.S. (Ref: 527)]]: 119 hrs (Finish in Four; university min 120), Kentucky Elementary Certificate (K–5).
+*   [[programs/undergraduate/interdisciplinary-early-childhood-education-bs-526|Interdisciplinary Early Childhood Education, B.S. (Ref: 526)]]: 120–126 hrs, Birth to Primary.
+*   [[programs/undergraduate/middle-level-education-bs-5001|Middle Level Education, B.S. (Ref: 5001)]]: 114–121 hrs, Dual or single certification in ELA and/or Social Studies (Grades 5–9).
+*   [[programs/undergraduate/science-and-mathematics-education-bs-774|Science & Math Education (SKyTeach), B.S. (Ref: 774)]]: 34-hr SMED major (catalog table; page heading also says 37) paired with a content major; Grades 5–9 or 8–12.
+*   [[programs/undergraduate/special-education-and-elementary-education-bs-5003|Special Education: LBD & Elementary Education Dual Major, B.S. (Ref: 5003)]]: 128 hrs (Finish in Four), Dual certification (P–5 & P–12).
+*   [[programs/undergraduate/secondary-education-certification|Secondary Education Teacher Certification]]: No standalone STE secondary B.S. in the catalog; 8–12 / P–12 / 5–12 routes are content majors in other departments (STEM via SMED).
+*   [[programs/undergraduate/interactive-training-and-leadership-certificate-1752|Interactive Training and Leadership Certificate (Ref: 1752)]]: 15-hr undergraduate certificate.
 
 #### B. Graduate Degrees & Advanced Certification
-*   [[programs/graduate/advanced-teacher-education-mae-0500|Advanced Teacher Education, M.A.E. (Ref: 0500)]]: Flagship 30-hr stackable degree for Rank II or I.
-*   [[programs/graduate/teacher-education-initial-certification-mat-0495|Teacher Education for Initial Certification, M.A.T. (Ref: 0495)]]: Master's initial certification; Option 6 eligible.
-*   [[programs/graduate/special-education-initial-certification-mat-0456|Special Education Initial Certification (LBD), M.A.T. (Ref: 0456)]]: Option 6 eligible special education degree.
+*   [[programs/graduate/advanced-teacher-education-mae-0500|Advanced Teacher Education, M.A.E. (Ref: 0500)]]: Flagship 30–37 hr stackable degree for Rank II or I.
+*   [[programs/graduate/teacher-education-initial-certification-mat-0495|Teacher Education for Initial Certification, M.A.T. (Ref: 0495)]]: 30-hr master's initial certification; Option 6 eligible.
+*   [[programs/graduate/special-education-initial-certification-mat-0456|Special Education Initial Certification (LBD or MSD), M.A.T. (Ref: 0456)]]: 33-hr Option 6 eligible special education degree.
 *   [[programs/graduate/special-education-lbd-mae-0457|Special Education: LBD Advanced, M.A.E. (Ref: 0457)]]: Adds LBD certification for certified teachers.
 *   [[programs/graduate/special-education-msd-mae-0438|Special Education: MSD, M.A.E. (Ref: 0438)]]: Moderate and severe disabilities (P–12).
 *   [[programs/graduate/interdisciplinary-early-childhood-mat-0460|Interdisciplinary Early Childhood Education, M.A.T. (Ref: 0460)]]: Initial certification Birth to Primary.
@@ -89,7 +89,7 @@ Explore the ten core knowledge domains of the School of Teacher Education:
 *   [[programs/graduate/literacy-education-mae-044|Literacy Education, M.A.E. (Ref: 044)]]: Leads to Kentucky Reading Specialist endorsement (P–12).
 *   [[programs/graduate/libraries-informatics-technology-ms-0497|Libraries, Informatics, & Technology in Education (LITE), M.S. (Ref: 0497)]]: School Media Librarian certification.
 *   [[programs/graduate/instructional-design-ms-0428|Instructional Design, M.S. (Ref: 0428)]]: 100% online workplace learning and training design.
-*   [[programs/graduate/applied-behavior-analysis-ms-0508|Applied Behavior Analysis, M.S. (Ref: 0508)]]: ABAI Verified Course Sequence preparing BCBAs.
+*   [[programs/graduate/applied-behavior-analysis-ms-0508|Applied Behavior Analysis, M.S. (Ref: 0508)]]: 40–46 hr ABAI-aligned sequence preparing BCBAs.
 *   [[programs/graduate/gifted-education-mae-0482|Gifted Education and Talent Development, M.A.E. (Ref: 0482)]]: Endorsement in Gifted Education (KE37).
 *   [[programs/graduate/gifted-education-eds-0503|Gifted Education & Talent Development, Ed.S. (Ref: 0503)]]: Post-master's Rank I degree.
 

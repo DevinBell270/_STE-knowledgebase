@@ -18,7 +18,7 @@ This hub indexes academic course structures, departmental prefixes, and core cur
 *   [[courses-and-curriculum/course-prefixes-and-descriptions|STE Course Prefixes & Catalog Curriculum Guide]]
     *   Comprehensive breakdown of all 13 departmental prefixes (EDU, ELED, IECE, LITE, LTCY, MGE, SEC, SMED, SPED, TCHL, ID, GTE, ABA) and undergraduate pedagogical cores.
 *   [[courses-and-curriculum/teacher-leader-core-curriculum|Teacher Leader Framework & Core Graduate Curriculum]]
-    *   In-depth analysis of the graduate Teacher Leader core sequence (TCHL 500, 530, 555, 560), action research capstones, and school improvement models.
+    *   Catalog TCHL sequence (KTLE endorsement and Secondary Rank II 0432). MAE 0500 uses an EDU professional-education core, not TCHL.
 
 ---
 

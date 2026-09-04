@@ -30,7 +30,7 @@ The School of Teacher Education administers an extensive catalog of undergraduat
 | **SEC** | Secondary Education | Undergrad & Grad | High school teaching strategies (SEC 351), student diversity (SEC 352), secondary senior projects (SEC 453), and secondary student teaching (SEC 490). |
 | **SMED** | Science and Mathematics Education | Undergraduate | The SKyTeach inquiry sequence (Step 1 SMED 101, Step 2 SMED 102, Knowing & Learning SMED 310, Project-Based Instruction SMED 470). |
 | **SPED** | Special Education | Undergrad & Grad | Exceptional child foundations (SPED 330/516), behavior management (SPED 340/530), assessment (SPED 345/531), and LBD/MSD methods. |
-| **TCHL** | Teacher Leadership | Graduate | Core master's sequence in teacher leadership, curriculum development, student assessment, and action research capstones (TCHL 500, 530, 555, 560). |
+| **TCHL** | Teacher Leadership | Graduate | Catalog sequence for the Teacher Leader Endorsement (KTLE) and Secondary Rank II (0432): TCHL 500, 530, 545, 555, 560. Not the MAE 0500 core. |
 | **ID** | Instructional Design | Undergrad & Grad | Workplace performance improvement, multimedia learning design, e-learning authoring tools, and project management (ID 560, 570, 575). |
 | **GTE** | Gifted and Talented Education | Graduate | Identification of high-ability learners, curriculum differentiation, creativity development, and gifted practicum (GTE 536, 537, 538, 539). |
 | **ABA** | Applied Behavior Analysis | Graduate | Behavior principles, single-case design, behavioral assessment, ethics, and BCBA clinical supervision (ABA 501–590). |
