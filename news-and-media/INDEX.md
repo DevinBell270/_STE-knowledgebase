@@ -20,6 +20,7 @@ Curated news entries about the **School of Teacher Education (STE)** and closely
 *   [[news-and-media/forsythe-scholars-endowment-2026|Forsythe Scholars Endowment ($1M) — first awards]]
 *   [[news-and-media/teachers-of-promise-2026|2026 Teachers of Promise honorees]]
 *   [[news-and-media/insight-stem-summer-2026|INSIGHT Summer STEM Innovation Program]]
+*   [[news-and-media/pe-math-integration-research-video-2026|PE–math integration research (YouTube)]]
 *   [[news-and-media/distinguished-educator-awards-2026|6th Annual Distinguished Educator Awards]]
 *   [[news-and-media/christina-noel-cec-executive-director-2026|Dr. Christina Noel named CEC Executive Director]]
 *   [[news-and-media/kentucky-teacher-hall-of-fame-nominations-2026|Hall of Fame Class of 2026 nominations open]]
