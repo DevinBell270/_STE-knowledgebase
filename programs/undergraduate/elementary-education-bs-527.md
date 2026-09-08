@@ -1,10 +1,10 @@
 ---
 title: "Elementary Education, Bachelor of Science (Ref: 527)"
 type: "program"
-tags: [undergraduate, eled, degree, bachelor-of-science, elementary-education, p-5-certification]
+tags: [undergraduate, eled, degree, bachelor-of-science, elementary-education, k-5-certification]
 source_url: "https://catalog.wku.edu/undergraduate/education-behavioral-sciences/teacher-education/elementary-education-bs/"
-last_updated: "2026-09-04"
-summary: "Undergraduate degree leading to the Kentucky Elementary Certificate (K-5). Catalog Finish in Four sample plan totals 119 hours; WKU baccalaureate minimum is 120."
+last_updated: "2026-09-08"
+summary: "Undergraduate degree leading to the Kentucky Elementary Certificate (K-5). P-5 and other band changes are discussed but not approved. Catalog Finish in Four sample plan totals 119 hours; WKU baccalaureate minimum is 120."
 ---
 
 # Elementary Education, Bachelor of Science (Ref: 527)
@@ -14,6 +14,8 @@ summary: "Undergraduate degree leading to the Kentucky Elementary Certificate (K
 *Western Kentucky University*
 
 The **Bachelor of Science in Elementary Education (Reference # 527)** leads to a Bachelor of Science degree and the **Kentucky Elementary Certificate (K-5)**. The program requires completion of a Colonnade component, related studies component, and professional education component. Catalog Finish in Four clinical hour requirements total **232 hours** prior to student teaching.
+
+**Current certification band (Devin, via assistant dean, 2026-09-08):** Elementary Education undergraduate certification is **K-5**. Grade-band changes are discussed but **not approved**. Do not treat **P-5** or any future band as current until Devin says it is approved. Live recruitment pages that say P-5 are not the source of truth.
 
 Program Coordinator (catalog): [[people/dr-janet-tassell|Janet L. Tassell]] ([janet.tassell@wku.edu](mailto:janet.tassell@wku.edu), 270-745-5306). Department site: [wku.edu/ste](http://www.wku.edu/ste).
 
@@ -27,7 +29,7 @@ Program Coordinator (catalog): [[people/dr-janet-tassell|Janet L. Tassell]] ([ja
 | **WKU Catalog Reference Number** | **527** |
 | **Program Requirements** | **80 hours** (catalog table also lists **80–83** with elective range) |
 | **Finish in Four total** | **119 Hours** (sample plan tab is also labeled Program Requirements (120 hours)). WKU requires a **minimum of 120** unduplicated semester hours for any baccalaureate degree. |
-| **Kentucky Certification Issued** | Kentucky Elementary Certificate (K–5) |
+| **Kentucky Certification Issued** | Kentucky Elementary Certificate (K–5). P-5 is not approved. |
 | **Delivery Mode** | On-Campus (Bowling Green) with field experiences away from campus |
 | **Current Enrollment** | **441 Students** (Fall 2026 Week -10; ~49% of all STE enrollment) |
 | **Incoming FTFY Orientation Yield** | **115 Students** (Fall 2026; up from 97 in 2025 and 82 in 2024, **+40.2% 2-year growth**) |
