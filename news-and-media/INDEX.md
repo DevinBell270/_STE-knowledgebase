@@ -15,6 +15,7 @@ Curated news entries about the **School of Teacher Education (STE)** and closely
 
 ## 2026
 
+*   [[news-and-media/us-news-undergraduate-teaching-2027|U.S. News 2027 — Undergraduate Teaching Programs No. 12 (South)]]
 *   [[news-and-media/grow-your-own-warren-county-2026|Warren County Grow Your Own — new cohort]]
 *   [[news-and-media/kea-student-teaching-connections-2026|KEA & districts meet education majors]]
 *   [[news-and-media/dr-martin-ky-superintendent-of-year-2027|Dr. Martin — 2027 KY Superintendent of the Year]]
