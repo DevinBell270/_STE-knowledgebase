@@ -3,7 +3,7 @@ title: "STE News and Media Map of Content"
 type: "index"
 tags: [wku, ste, news, media, cebs, map-of-content]
 source_url: "https://www.wku.edu/cebs/news/index.php"
-last_updated: "2026-09-04"
+last_updated: "2026-09-23"
 summary: "Living index of newsworthy stories about the WKU School of Teacher Education drawn from official WKU/CEBS news and social channels."
 ---
 
