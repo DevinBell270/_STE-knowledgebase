@@ -20,7 +20,7 @@ This directory provides comprehensive profiles for all 39 faculty, administrator
 | [[people/dr-corinne-murphy|Dr. Corinne M. Murphy]] | Dean, CEBS; Professor | GRH 2038 | corinne.murphy@wku.edu | (270) 745-4664 |
 | [[people/dr-jennifer-klemm|Dr. Jennifer P. Klemm]] | Associate Dean, CEBS; Professor | GRH 2038 | jennifer.klemm@wku.edu | (270) 745-4664 |
 | [[people/dr-susan-keesey|Dr. Susan Keesey]] | Director, STE; Professor | GRH 1105 / 1005 | susan.keesey@wku.edu | (270) 745-5414 |
-| [[people/dr-janet-tassell|Dr. Janet L. Tassell]] | Assistant Director, STE; Coordinator; Professor | GRH 1105 / 1005 | janet.tassell@wku.edu | (270) 745-5306 |
+| [[people/dr-janet-tassell|Dr. Janet L. Tassell]] | Assistant Director, STE; program coordinator for all undergraduate programs in the School of Teacher Education; Professor | GRH 1105 / 1005 | janet.tassell@wku.edu | (270) 745-5306 |
 | [[people/mandy-zeh|Mandy Zeh]] | Office Coordinator | GRH 1005 | mandy.zeh@wku.edu | (270) 745-5414 |
 | [[people/meredith-stewart|Meredith Stewart]] | Academic Advisor | GRH 1005 | meredith.stewart@wku.edu | (270) 745-5414 |
 

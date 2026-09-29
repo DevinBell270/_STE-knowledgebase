@@ -3,13 +3,13 @@ title: "Dr. Janet L. Tassell"
 type: "person"
 tags: ['assistant-director', 'coordinator', 'elementary-math', 'stem', 'professor']
 source_url: "https://www.wku.edu/ste/staff/janet_tassell"
-last_updated: "2026-09-04"
-summary: "Assistant Director, School of Teacher Education; Program Coordinator; Professor in the WKU School of Teacher Education. Specialization: Elementary mathematics pedagogy, math coaching, gifted mathematics education, numeracy intervention, and clinical educator preparation.."
+last_updated: "2026-09-29"
+summary: "Assistant Director, School of Teacher Education; program coordinator for all undergraduate programs in the School of Teacher Education; Professor. Specialization: Elementary mathematics pedagogy, math coaching, gifted mathematics education, numeracy intervention, and clinical educator preparation."
 ---
 
 # Dr. Janet L. Tassell
 
-**Assistant Director, School of Teacher Education; Program Coordinator; Professor**  
+**Assistant Director, School of Teacher Education; program coordinator for all undergraduate programs in the School of Teacher Education; Professor**  
 *School of Teacher Education*  
 *College of Education and Behavioral Sciences*  
 *Western Kentucky University*
@@ -35,7 +35,7 @@ summary: "Assistant Director, School of Teacher Education; Program Coordinator; 
 
 ## Professional Role & Biography
 
-Dr. Janet L. Tassell is Assistant Director of the School of Teacher Education and Program Coordinator for Elementary Education and Mathematics Education. She spearheaded the design of the Elementary Mathematics Specialist (EMS) endorsement and certificate program and has directed major state and federal grants in teacher numeracy leadership. Appointed **University Distinguished Professor** effective July 1, 2026 (Board of Regents, February 2026). See [[news-and-media/janet-tassell-university-distinguished-professor-2026]].
+Dr. Janet L. Tassell is Assistant Director of the School of Teacher Education and program coordinator for all undergraduate programs in the School of Teacher Education. Confirmed by Devin Bell on 2026-09-29. Narrower catalog listings (catalog coordinator for the Learning and Behavior Disorders and Elementary Education bachelor's, catalog 5003, or coordinator for Elementary Education and Mathematics Education only) are outdated and do not override this title. She spearheaded the design of the Elementary Mathematics Specialist (EMS) endorsement and certificate program and has directed major state and federal grants in teacher numeracy leadership. Appointed **University Distinguished Professor** effective July 1, 2026 (Board of Regents, February 2026). See [[news-and-media/janet-tassell-university-distinguished-professor-2026]].
 
 ---
 

@@ -20,7 +20,7 @@ The School of Teacher Education operates under a collaborative governance model 
 | **Dean, College of Education and Behavioral Sciences** | [[people/dr-corinne-murphy|Dr. Corinne M. Murphy, Ph.D., BCBA-D]] | GRH 2038 | corinne.murphy@wku.edu | (270) 745-4664 |
 | **Associate Dean, CEBS** | [[people/dr-jennifer-klemm|Dr. Jennifer P. Klemm, Ph.D.]] | GRH 2038 | jennifer.klemm@wku.edu | (270) 745-4664 |
 | **Director, School of Teacher Education** | [[people/dr-susan-keesey|Dr. Susan Keesey, Ph.D.]] | GRH 1105 / 1005 | susan.keesey@wku.edu | (270) 745-5414 |
-| **Assistant Director, STE & Program Coordinator** | [[people/dr-janet-tassell|Dr. Janet L. Tassell, Ph.D.]] | GRH 1105 / 1005 | janet.tassell@wku.edu | (270) 745-5306 |
+| **Assistant Director, STE; program coordinator for all undergraduate programs in the School of Teacher Education** | [[people/dr-janet-tassell|Dr. Janet L. Tassell, Ph.D.]] | GRH 1105 / 1005 | janet.tassell@wku.edu | (270) 745-5306 |
 | **Office Coordinator** | [[people/mandy-zeh|Mandy Zeh]] | GRH 1005 | mandy.zeh@wku.edu | (270) 745-5414 |
 | **Academic Advisor** | [[people/meredith-stewart|Meredith Stewart]] | GRH 1005 | meredith.stewart@wku.edu | (270) 745-5414 |
 

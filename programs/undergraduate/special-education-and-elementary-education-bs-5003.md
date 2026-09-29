@@ -15,7 +15,7 @@ summary: "Dual certification B.S. in Special Education: LBD (P-12) and Elementar
 
 The **Special Education: Learning and Behavior and Elementary Education dual certification program (Reference # 5003)** leads to the Bachelor of Science degree and Kentucky teaching certificates for **Learning and Behavior Disorders (P–12)** and **Elementary Education (P–5)**. The program requires completion of a general education component, related studies component, and professional education component.
 
-Program Coordinator (catalog): [[people/dr-janet-tassell|Janet L. Tassell]] ([janet.tassell@wku.edu](mailto:janet.tassell@wku.edu), 270-745-5306).
+Program coordinator for all undergraduate programs in the School of Teacher Education: [[people/dr-janet-tassell|Janet L. Tassell]] ([janet.tassell@wku.edu](mailto:janet.tassell@wku.edu), 270-745-5306). A narrower catalog listing that limits her to this bachelor's (5003) is outdated and does not override that title.
 
 ---
 
