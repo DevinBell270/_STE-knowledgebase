@@ -16,6 +16,7 @@ Curated news entries about the **School of Teacher Education (STE)** and closely
 ## 2026
 
 *   [[news-and-media/kentucky-teacher-hall-of-fame-class-2026|Kentucky Teacher Hall of Fame — Class of 2026]]
+*   [[news-and-media/caep-frank-murray-leadership-recognition-2026|CAEP Frank Murray Leadership Recognition (EPP team)]]
 *   [[news-and-media/project-inspire-grant-2026|Project INSPIRE — $1,249,373 OSEP grant (IECE–MSD)]]
 *   [[news-and-media/us-news-undergraduate-teaching-2027|U.S. News 2027 — Undergraduate Teaching Programs No. 12 (South)]]
 *   [[news-and-media/grow-your-own-warren-county-2026|Warren County Grow Your Own — new cohort]]
