@@ -3,7 +3,7 @@ title: "STE News and Media Map of Content"
 type: "index"
 tags: [wku, ste, news, media, cebs, map-of-content]
 source_url: "https://www.wku.edu/cebs/news/index.php"
-last_updated: "2026-09-29"
+last_updated: "2026-10-05"
 summary: "Living index of newsworthy stories about the WKU School of Teacher Education drawn from official WKU/CEBS news and social channels."
 ---
 
@@ -15,6 +15,7 @@ Curated news entries about the **School of Teacher Education (STE)** and closely
 
 ## 2026
 
+*   [[news-and-media/kentucky-teacher-hall-of-fame-class-2026|Kentucky Teacher Hall of Fame — Class of 2026]]
 *   [[news-and-media/project-inspire-grant-2026|Project INSPIRE — $1,249,373 OSEP grant (IECE–MSD)]]
 *   [[news-and-media/us-news-undergraduate-teaching-2027|U.S. News 2027 — Undergraduate Teaching Programs No. 12 (South)]]
 *   [[news-and-media/grow-your-own-warren-county-2026|Warren County Grow Your Own — new cohort]]
