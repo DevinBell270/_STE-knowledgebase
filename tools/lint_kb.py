@@ -16,7 +16,15 @@ from pathlib import Path
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 
-EXCLUDED_DIRS = {'.git', 'scratch', 'web-reports', 'web-template', '.gemini', 'tools', '.system_generated', '__pycache__'}
+EXCLUDED_DIRS = {'.git', 'scratch', 'web-reports', 'web-template', '.gemini', 'tools', 'testimonials', '.system_generated', '__pycache__'}
+
+def is_excluded(path):
+    """True when a resolved file sits under a directory this audit skips."""
+    try:
+        rel = path.resolve().relative_to(ROOT_DIR)
+    except ValueError:
+        return False
+    return any(part in EXCLUDED_DIRS for part in rel.parts)
 
 def get_all_md_files():
     md_files = []
@@ -125,7 +133,7 @@ def audit_kb():
             if norm and norm in file_set:
                 outbound_links[file_path.resolve()].add(norm)
                 inbound_links[norm].add(file_path.resolve())
-            else:
+            elif not (norm and is_excluded(norm)):
                 broken_links.append((str(rel_file), f"Broken wikilink: [[{wl}]]"))
 
         # 3. Extract standard Markdown links [text](path)
@@ -139,7 +147,7 @@ def audit_kb():
             if norm and norm in file_set:
                 outbound_links[file_path.resolve()].add(norm)
                 inbound_links[norm].add(file_path.resolve())
-            else:
+            elif not (norm and is_excluded(norm)):
                 broken_links.append((str(rel_file), f"Broken markdown link: [{text}]({link})"))
 
     # 4. Check for Orphaned Files (In-degree == 0, excluding INDEX.md)
