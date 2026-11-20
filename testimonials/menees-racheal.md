@@ -6,7 +6,7 @@ hometown_state: "KY"
 class_year: ""  # blank: source gives expected graduation only
 grad_year: "May 2028"
 majors:
-  # STE Expert 2026-11-20 (for Adriana Hobbs record): "Elementary Education" matches Elementary Education B.S. (Ref 527) (KB: programs/undergraduate/elementary-education-bs-527.md).
+  # STE Expert 2026-11-20: "Elementary Education" matches Elementary Education B.S. (Ref 527) (KB: programs/undergraduate/elementary-education-bs-527.md).
   - "Elementary Education"
 minors: []
 department: "School of Teacher Education"
@@ -26,7 +26,8 @@ usage_status: "provided by WKU social media coordinator (not public)"
 review_by: "May 2029"  # grad + 1 year at the precision given
 cross_listed: []
 added: "2026-11-20"
-verified_by: ""  # STE Expert check pending
+verified_by: "STE Expert, 2026-11-20 (program mapping and course names only; Ref 527)"
+# FLAG (STE Expert, 2026-11-20): all five courses named in answer 2 exist (EDU 250, 260, 350, 360; PSY 310). KB Finish in Four plan places EDU 350 in Second Year Spring, not freshman year; the answer says she took EDU 250 and EDU 350 in her freshman year. KB documents clinical field hours by semester (15 in First Year Fall; 30 in Year 2), not 30 observation hours tied to EDU 250/350. Quote kept verbatim per coordinator-as-ground-truth; check before using the course/hours detail in copy.
 ---
 
 Provided by the WKU social media coordinator from a CEBS Student Ambassador Q&A.
