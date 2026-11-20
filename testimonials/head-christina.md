@@ -26,7 +26,7 @@ usage_status: "provided by WKU social media coordinator (not public)"
 review_by: "2029"  # grad + 1 year at the precision given; exact grad date unknown
 cross_listed: []
 added: "2026-11-20"
-verified_by: ""  # STE Expert check pending
+verified_by: "STE Expert, 2026-11-20 (program mapping only; Ref 527)"
 ---
 
 Provided by the WKU social media coordinator from a CEBS Student Ambassador Q&A.
