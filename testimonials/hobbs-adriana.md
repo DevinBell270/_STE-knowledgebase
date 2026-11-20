@@ -6,7 +6,7 @@ hometown_state: "Indiana"
 class_year: ""  # blank: source gives expected graduation only
 grad_year: "2028"
 majors:
-  # FLAG: given as one entry; unclear whether this is one combined program or a double major.
+  # STE Expert 2026-11-20: matches Elementary Education B.S. (Ref 527) (KB: programs/undergraduate/elementary-education-bs-527.md).
   - "Elementary Education"
 minors: []
 department: "School of Teacher Education"
@@ -26,7 +26,7 @@ usage_status: "provided by WKU social media coordinator (not public)"
 review_by: "2029"  # grad + 1 year at the precision given; exact grad date unknown
 cross_listed: []
 added: "2026-11-20"
-verified_by: ""
+verified_by: "STE Expert, 2026-11-20 (program mapping only; Ref 527)"
 ---
 
 Provided by the WKU social media coordinator from a CEBS Student Ambassador Q&A.

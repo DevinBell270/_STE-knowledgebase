@@ -6,7 +6,7 @@ hometown_state: "KY"
 class_year: ""  # blank: source gives expected graduation only
 grad_year: "2029"
 majors:
-  # FLAG: given as one entry; unclear whether this is one combined program or a double major.
+  # STE Expert 2026-11-20: maps to ONE combined dual-certification program, "Special Education: Learning and Behavior Disorders and Elementary Education, Bachelor of Science (Ref: 5003)" (KB: programs/undergraduate/special-education-and-elementary-education-bs-5003.md). Name kept as provided by coordinator.
   - "Special Education and Elementary Education"
 minors: []
 department: "School of Teacher Education"
@@ -26,7 +26,7 @@ usage_status: "provided by WKU social media coordinator (not public)"
 review_by: "2030"  # grad + 1 year at the precision given; exact grad date unknown
 cross_listed: []
 added: "2026-11-20"
-verified_by: ""
+verified_by: "STE Expert, 2026-11-20 (program mapping only; Ref 5003)"
 ---
 
 Provided by the WKU social media coordinator from a CEBS Student Ambassador Q&A.
