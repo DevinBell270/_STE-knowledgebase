@@ -3,7 +3,7 @@ title: "STE News and Media Map of Content"
 type: "index"
 tags: [wku, ste, news, media, cebs, map-of-content]
 source_url: "https://www.wku.edu/cebs/news/index.php"
-last_updated: "2026-10-05"
+last_updated: "2026-11-12"
 summary: "Living index of newsworthy stories about the WKU School of Teacher Education drawn from official WKU/CEBS news and social channels."
 ---
 
@@ -15,6 +15,9 @@ Curated news entries about the **School of Teacher Education (STE)** and closely
 
 ## 2026
 
+*   [[news-and-media/super-saturdays-fall-2026|Center for Gifted Studies — 2026 Fall Super Saturdays]]
+*   [[news-and-media/madison-womack-special-education-teacher-of-the-year-2026|Madison Womack — Special Education Teacher of the Year (social proof)]]
+*   [[news-and-media/literacy-ambassadors-kra-conference-2026|Literacy Ambassadors at the Kentucky Reading Association conference (social proof; October 22, 2026)]]
 *   [[news-and-media/kentucky-teacher-hall-of-fame-class-2026|Kentucky Teacher Hall of Fame — Class of 2026]]
 *   [[news-and-media/caep-frank-murray-leadership-recognition-2026|CAEP Frank Murray Leadership Recognition (EPP team)]]
 *   [[news-and-media/project-inspire-grant-2026|Project INSPIRE — $1,249,373 OSEP grant (IECE–MSD)]]
