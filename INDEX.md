@@ -174,6 +174,11 @@ Explore the ten core knowledge domains of the School of Teacher Education:
 
 ---
 
+### 11. Testimonials
+*   [[testimonials/index|Testimonials Index]]: CEBS Student Ambassador Q&A records.
+
+---
+
 ## Tag Taxonomy & Keyword Cloud
 `#wku` `#ste` `#cebs` `#opes` `#teacher-admissions` `#field-experience` `#student-teaching` `#watermark` `#co-teaching` `#teacher-certification` `#proficiency-evaluation` `#16-kar-5-030` `#16-kar-5-040` `#elementary-education` `#middle-grades` `#secondary-education` `#special-education` `#lbd` `#msd` `#iece` `#literacy` `#lite` `#instructional-design` `#applied-behavior-analysis` `#gifted-education` `#skyteach` `#rank-change` `#rank-i` `#rank-ii` `#option-6` `#alternative-certification` `#educator-discount` `#350-discount` `#teach-grant` `#kheaa` `#action-research` `#caep` `#epsb` `#ransdell-hall`
 
